@@ -1,0 +1,15 @@
+{
+  "name": "staticwebscrapper",
+  "version": "1.0.0",
+  "description": "A web scraper that scraps static sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Godwin Alexander",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
